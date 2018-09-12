@@ -1,2 +1,2 @@
-# Face-recognition
-机器学习-人脸识别
+# faceyou
+简单人脸识别项目
